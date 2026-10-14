@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: auto;
+}
+
+.wheel-container {
+  position: relative;
+  width: 600px;
+  height: 600px;
+}
+.wheel-container canvas {
+  transition: transform 4s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+.wheel-container .pointer {
+  position: absolute;
+  top: 50%;
+  right: -10px;
+  transform: translateY(-50%);
+  width: 0;
+  height: 0;
+  border-top: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+  border-right: 30px solid #222;
+}/*# sourceMappingURL=style.css.map */
