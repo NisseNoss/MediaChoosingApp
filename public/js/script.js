@@ -32,6 +32,7 @@ const movies = [
     { title: "The Wind Rises" },
     { title: "The Rocky horror picture show" },
     { title: "Napolion Dynamite" },
+    { title: "The perks of beeing a wallflower" }
 
 ];
 
