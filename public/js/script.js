@@ -24,7 +24,6 @@ const movies = [
     { title: "My Neighbor Totoro" },
     { title: "The Untouchables" },
     { title: "Princess Mononoke" },
-    { title: "Spirited Away" },
     { title: "Howl's Moving Castle" },
     { title: "Ponyo" },
     { title: "No Country for Old Men" },
@@ -36,6 +35,9 @@ const movies = [
 
 ];
 
+const done = [
+    { title: "Spirited Away" }
+]
 
 const series = [
     { title: "Dune serien" },
