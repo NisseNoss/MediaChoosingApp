@@ -14,8 +14,7 @@ const colors = [
 const movies = [
     { title: "Pirates of the Caribbean", parts: 5, next: 1 },
     { title: "Shrek 4" },
-    { title: "Bee Movie" },
-    { title: "Nosferatu",  },
+    { title: "Nosferatu", },
     { title: "Call me by your name" },
     { title: "WERWULF" },
     { title: "The Accountant" },
@@ -36,7 +35,8 @@ const movies = [
 ];
 
 const done = [
-    { title: "Spirited Away" }
+    { title: "Spirited Away" },
+    { title: "Bee Movie" },
 ]
 
 const series = [
@@ -54,7 +54,6 @@ const series = [
     { title: "My Hero Acadmia" },
     { title: "Saiki K" },
     { title: "Naked Attraction" },
-    
 ];
 
 
